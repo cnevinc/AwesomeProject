@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # OSX
 #
 .DS_Store
@@ -33,7 +33,6 @@ local.properties
 #
 node_modules/
 npm-debug.log
-=======
 # Built application files
 *.apk
 *.ap_
@@ -66,4 +65,3 @@ proguard/
 
 # Android Studio captures folder
 captures/
->>>>>>> 78c34da19c0f159986bb0edd53b3e8b283574853
